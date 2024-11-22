@@ -9,9 +9,9 @@ This repository showcases the basic usage and syntax of different programming la
 ## Languages Covered
 - Python
 - JavaScript
-- Java
-- C++
-- And more...
+- Rust
+- Go
+- C
 
 ## How to Use
 1. Browse through the folders named after each programming language.
@@ -22,4 +22,4 @@ This repository showcases the basic usage and syntax of different programming la
 Feel free to contribute by adding more examples or introducing new languages. Make a pull request with your changes!
 
 ## License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source.
