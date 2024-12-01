@@ -7,4 +7,5 @@ if name != "joel":
 else:
     if age > 18:
         print("You're an adult")
-    
+    else:
+        print("Passed everything")
